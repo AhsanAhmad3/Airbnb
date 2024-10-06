@@ -1,5 +1,9 @@
+import {Container} from "@mui/material"
+
 const Home = () => {
-  return <div>home</div>;
+  return <Container maxWidth="xl">
+
+  </Container>
 };
 
 export default Home;
